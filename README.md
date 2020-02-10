@@ -3,5 +3,5 @@ entrer au projet puis lancer les commandes <br/>
 npm install <br/>
 puis <br/>
 npm start <br/>
- pouis ouvrez navigateur :<br/>
+puis ouvrez navigateur :<br/>
 localhost:3000
